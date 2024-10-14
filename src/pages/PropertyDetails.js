@@ -34,7 +34,7 @@ const PropertyDetails = () => {
             {property.country}
           </div>
         </div>
-        <div className="text-3xl font-semibold text-violet-600">
+        <div className="text-3xl mb-3 md:mb-0 font-semibold text-violet-600">
           $ {property.price}
         </div>
       </div>
